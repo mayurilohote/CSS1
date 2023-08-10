@@ -1,0 +1,44 @@
+.google-card{
+    width: 550px;
+    height: 635px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    margin: 20px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+p.upper{
+    font-weight: 600;
+    color: grey;
+    margin: 12px 0 -13px 7px;
+}
+h1{
+    font-weight: 600;
+}
+p.lower{
+    font-size: large;
+    margin-right: 15px;
+    color: grey;
+    margin-top: -11px;
+margin-bottom: 9px;
+}
+.google-img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+.card-para{
+    padding: 10px 25px;
+}
+.btn{
+    background-color: white;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    height: 45px;
+    width: 140px;
+    margin-top: 20px;
+    color: blue;
+    font-size: medium;
+}
